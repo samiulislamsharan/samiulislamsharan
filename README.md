@@ -13,9 +13,7 @@
             src="https://img.shields.io/twitter/follow/samiul__islam?logo=twitter&style=for-the-badge"
             alt="samiul__islam" /></a> </p>
 
-- 🔭 I’m currently working on **Point of Sale (POS)**
-
-- 🌱 I’m currently learning **PHP with Laravel**
+- 🌱 I’m currently interested in **PHP and Laravel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
